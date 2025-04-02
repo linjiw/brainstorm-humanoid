@@ -1,0 +1,12 @@
+    # mkdocs.yml
+    site_name: Awesome Humanoid Robotics # Or your desired site title
+    theme:
+      name: material # Use the Material theme
+    # Optional: Add plugins or custom CSS/JS here if needed
+    # Optional: Explicitly define navigation if the automatic structure isn't right
+    # nav:
+    #   - Home: index.md
+    #   - Folder 1:
+    #     - Page 1.1: folder1/page1.1.md
+    #     - Page 1.2: folder1/page1.2.md
+    #   - Folder 2: folder2/index.md
